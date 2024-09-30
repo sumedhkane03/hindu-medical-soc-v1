@@ -77,7 +77,7 @@ export default function Home() {
           </div>
           <div className="mt-6 flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
             <a
-              href="https://forms.gle/W6zBeMVQzswTN1CK8"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSe7j8RxBEfCMUbCSIXedomNt7c0M3B3vNZtNGApyEqiS8eP_g/viewform?usp=sf_link"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block w-full sm:w-auto"
